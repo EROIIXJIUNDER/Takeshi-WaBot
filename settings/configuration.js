@@ -2,7 +2,7 @@ const fs = require("fs");
 
 const config = {
   author: "KuroTakeshi",
-  botNumber: "0",
+  botNumber: "9779811839489",
   database: "takeshi-database",
   inviteCode: "CtnxNzmlxLOJqeSlxdQXTz",
   name: "- Takeshi - Simple WhatsApp bot",
